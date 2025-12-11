@@ -1078,6 +1078,42 @@
     "BundleId": 55,
     "Name": "Pirate ",
     "ProductId": 7919452352411767
+  },
+  {
+    "Animations": {
+      "idle": {
+        "Animation2": "http://www.roblox.com/asset/?id=507766368",
+        "Animation1": "http://www.roblox.com/asset/?id=507766666"
+      },
+      "jump": {
+        "JumpAnim": "http://www.roblox.com/asset/?id=50776500"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=913376220"
+      },
+      "swim": {
+        "Swim": "http://www.roblox.com/asset/?id=913384386"
+      },
+      "swimidle": {
+        "SwimIdle": "http://www.roblox.com/asset/?id=913389285"
+      },
+      "climb": {
+        "ClimbAnim": "http://www.roblox.com/asset/?id=507765644"
+      },
+      "fall": {
+        "FallAnim": "http://www.roblox.com/asset/?id=507767968"
+      },
+      "pose": {
+        "PoseAnim": "http://www.roblox.com/asset/?id=507770677"
+      },
+      "walk": {
+        "WalkAnim": "http://www.roblox.com/asset/?id=913402848"
+      }
+    },
+    "BundleId": 2623795,
+    "Name": "adidas Community Animation Pack ",
+    "ProductId": 6167667640785567
   }
 ]
+
 
