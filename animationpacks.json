@@ -234,12 +234,6 @@
     "BundleId": 0
   },
   {
-    "Animations": [],
-    "BundleId": 2623795,
-    "Name": "adidas Community ",
-    "ProductId": 6167667640785567
-  },
-  {
     "Animations": {
       "idle": {
         "Animation2": "http://www.roblox.com/asset/?id=10921232093",
@@ -1115,5 +1109,6 @@
     "ProductId": 6167667640785567
   }
 ]
+
 
 
