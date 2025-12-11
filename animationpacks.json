@@ -1,6 +1,6 @@
 [
   {
-    "_comment": "By DEV/g0d"
+    "_comment": "by dev/g0d"
   },
   {
     "CustomImage": "rbxassetid://138985309493360",
@@ -232,6 +232,38 @@
       }
     },
     "BundleId": 0
+  },
+  {
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=122257458498464",
+        "Animation2": "http://www.roblox.com/asset/?id=102357151005774"
+      },
+      "walk": {
+        "WalkAnim": "http://www.roblox.com/asset/?id=122150855457006"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=82598234841035"
+      },
+      "jump": {
+        "JumpAnim": "http://www.roblox.com/asset/?id=75290611992385"
+      },
+      "fall": {
+        "FallAnim": "http://www.roblox.com/asset/?id=98600215928904"
+      },
+      "swim": {
+        "Swim": "http://www.roblox.com/asset/?id=133308483266208"
+      },
+      "swimidle": {
+        "SwimIdle": "http://www.roblox.com/asset/?id=109346520324160"
+      },
+      "climb": {
+        "ClimbAnim": "http://www.roblox.com/asset/?id=88763136693023"
+      }
+    },
+    "BundleId": 2623795,
+    "Name": "adidas Community ",
+    "ProductId": 6167667640785567
   },
   {
     "Animations": {
@@ -1074,41 +1106,249 @@
     "ProductId": 7919452352411767
   },
   {
+    "CustomImage": "",
+    "Name": "Wicked Dancing Through Life",
+    "ProductId": 0,
     "Animations": {
       "idle": {
-        "Animation2": "http://www.roblox.com/asset/?id=507766368",
-        "Animation1": "http://www.roblox.com/asset/?id=507766666"
-      },
-      "jump": {
-        "JumpAnim": "http://www.roblox.com/asset/?id=50776500"
-      },
-      "run": {
-        "RunAnim": "http://www.roblox.com/asset/?id=913376220"
-      },
-      "swim": {
-        "Swim": "http://www.roblox.com/asset/?id=913384386"
-      },
-      "swimidle": {
-        "SwimIdle": "http://www.roblox.com/asset/?id=913389285"
-      },
-      "climb": {
-        "ClimbAnim": "http://www.roblox.com/asset/?id=507765644"
-      },
-      "fall": {
-        "FallAnim": "http://www.roblox.com/asset/?id=507767968"
-      },
-      "pose": {
-        "PoseAnim": "http://www.roblox.com/asset/?id=507770677"
+        "Animation1": "http://www.roblox.com/asset/?id=92849173543269",
+        "Animation2": "http://www.roblox.com/asset/?id=132238900951109"
       },
       "walk": {
-        "WalkAnim": "http://www.roblox.com/asset/?id=913402848"
+        "WalkAnim": "http://www.roblox.com/asset/?id=73718308412641"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=135515454877967"
+      },
+      "jump": {
+        "JumpAnim": "http://www.roblox.com/asset/?id=78508480717326"
+      },
+      "fall": {
+        "FallAnim": "http://www.roblox.com/asset/?id=78147885297412"
+      },
+      "swim": {
+        "Swim": "http://www.roblox.com/asset/?id=110657013921774"
+      },
+      "swimidle": {
+        "SwimIdle": "http://www.roblox.com/asset/?id=129183123083281"
+      },
+      "climb": {
+        "ClimbAnim": "http://www.roblox.com/asset/?id=129447497744818"
       }
     },
-    "BundleId": 2623795,
-    "Name": "adidas Community Animation Pack ",
-    "ProductId": 6167667640785567
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "Unboxed By Amazon",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=98281136301627",
+        "Animation2": "http://www.roblox.com/asset/?id=138183121662404"
+      },
+      "walk": {
+        "WalkAnim": "http://www.roblox.com/asset/?id=90478085024465"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=134824450619865"
+      },
+      "jump": {
+        "JumpAnim": "http://www.roblox.com/asset/?id=121454505477205"
+      },
+      "fall": {
+        "FallAnim": "http://www.roblox.com/asset/?id=94788218468396"
+      },
+      "swim": {
+        "Swim": "http://www.roblox.com/asset/?id=105962919001086"
+      },
+      "swimidle": {
+        "SwimIdle": "http://www.roblox.com/asset/?id=129126268464847"
+      },
+      "climb": {
+        "ClimbAnim": "http://www.roblox.com/asset/?id=121145883950231"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "Ghost",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=616006778",
+        "Animation2": "http://www.roblox.com/asset/?id=616008087"
+      },
+      "walk": {
+        "WalkAnim": "http://www.roblox.com/asset/?id=616013216"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=616013216"
+      },
+      "jump": {
+        "JumpAnim": "http://www.roblox.com/asset/?id=616008936"
+      },
+      "fall": {
+        "FallAnim": "http://www.roblox.com/asset/?id=616005863"
+      },
+      "climb": {
+        "ClimbAnim": "http://www.roblox.com/asset/?id=616003713"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "Sway",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=560832030",
+        "Animation2": "http://www.roblox.com/asset/?id=560833564"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "R15 Reanimated",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=4211217646",
+        "Animation2": "http://www.roblox.com/asset/?id=4211218409"
+      },
+      "walk": {
+        "WalkAnim": "http://www.roblox.com/asset/?id=4211223236"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=4211220381"
+      },
+      "jump": {
+        "JumpAnim": "http://www.roblox.com/asset/?id=4211219390"
+      },
+      "fall": {
+        "FallAnim": "http://www.roblox.com/asset/?id=4211216152"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "Borock",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=3293641938",
+        "Animation2": "http://www.roblox.com/asset/?id=3293642554"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "Udzal",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=3303162274",
+        "Animation2": "http://www.roblox.com/asset/?id=3303162549"
+      },
+      "walk": {
+        "WalkAnim": "http://www.roblox.com/asset/?id=3303162967"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "Drooling Zombie",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=3489171152",
+        "Animation2": "http://www.roblox.com/asset/?id=3489171152"
+      },
+      "walk": {
+        "WalkAnim": "http://www.roblox.com/asset/?id=3489174223"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=3489173414"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "R6",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=12521158637",
+        "Animation2": "http://www.roblox.com/asset/?id=12521162526"
+      },
+      "walk": {
+        "WalkAnim": "http://www.roblox.com/asset/?id=12518152696"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=12518152696"
+      },
+      "jump": {
+        "JumpAnim": "http://www.roblox.com/asset/?id=12520880485"
+      },
+      "fall": {
+        "FallAnim": "http://www.roblox.com/asset/?id=12520972571"
+      },
+      "swim": {
+        "Swim": "http://www.roblox.com/asset/?id=12518152696"
+      },
+      "swimidle": {
+        "SwimIdle": "http://www.roblox.com/asset/?id=12518152696"
+      },
+      "climb": {
+        "ClimbAnim": "http://www.roblox.com/asset/?id=12520982150"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "Realistic",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=17172918855",
+        "Animation2": "http://www.roblox.com/asset/?id=17173014241"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "MrToilet",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=4417977954",
+        "Animation2": "http://www.roblox.com/asset/?id=4417978624"
+      },
+      "run": {
+        "RunAnim": "http://www.roblox.com/asset/?id=4417979645"
+      }
+    },
+    "BundleId": 0
+  },
+  {
+    "CustomImage": "",
+    "Name": "Soldier",
+    "ProductId": 0,
+    "Animations": {
+      "idle": {
+        "Animation1": "http://www.roblox.com/asset/?id=3972151362",
+        "Animation2": "http://www.roblox.com/asset/?id=3972151362"
+      }
+    },
+    "BundleId": 0
   }
 ]
-
-
-
